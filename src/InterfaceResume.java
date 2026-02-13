@@ -22,7 +22,7 @@ class Teacher implements Resume {
     }
 }
 
-public class Main {
+public class InterfaceResume {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
